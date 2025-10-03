@@ -1,0 +1,1374 @@
+========================================
+Timestamp: 2025-09-14 09:13:45
+--- POST Data ---
+Array
+(
+    [date_time] => 2025/09/14 02:43 pm
+    [user_id] => 2
+    [additional_info] => njjj
+    [issue_type] => Waterlogging
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => yyy
+    [landmark] => nn
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:18:19
+--- POST Data ---
+Array
+(
+    [date_time] => 2025/09/14 02:47 pm
+    [user_id] => 2
+    [additional_info] => vvvvv
+    [issue_type] => Waterlogging
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => fdd
+    [landmark] => vvvvv
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php6365.tmp
+            [error] => 0
+            [size] => 249577
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php6588.tmp
+            [error] => 0
+            [size] => 153873
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:23:04
+--- POST Data ---
+Array
+(
+    [date_time] => 2025/09/14 02:52 pm
+    [user_id] => 2
+    [additional_info] => ccxccc
+    [issue_type] => Cracks on Road
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => ff
+    [landmark] => xxx
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpBE06.tmp
+            [error] => 0
+            [size] => 249577
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpBFDC.tmp
+            [error] => 0
+            [size] => 153873
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:25:24
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 14:54:49
+    [user_id] => 2
+    [additional_info] => bbb
+    [issue_type] => Cracks on Road
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => ccc
+    [landmark] => vv
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpE0AA.tmp
+            [error] => 0
+            [size] => 167833
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpE1E3.tmp
+            [error] => 0
+            [size] => 153873
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:26:29
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 14:54:49
+    [user_id] => 2
+    [additional_info] => pufff
+    [issue_type] => Cracks on Road
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => ccc
+    [landmark] => vv
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpE049.tmp
+            [error] => 0
+            [size] => 167833
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpE183.tmp
+            [error] => 0
+            [size] => 153873
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:32:14
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 15:01:43
+    [user_id] => 2
+    [additional_info] => nnnn
+    [issue_type] => Street Light Not Working
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => j*
+    [landmark] => hjj
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php251C.tmp
+            [error] => 0
+            [size] => 92600
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php25D9.tmp
+            [error] => 0
+            [size] => 153873
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:32:27
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 15:01:43
+    [user_id] => 2
+    [additional_info] => nnnn
+    [issue_type] => Street Light Not Working
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => j*
+    [landmark] => hjj
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php568E.tmp
+            [error] => 0
+            [size] => 92600
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php574B.tmp
+            [error] => 0
+            [size] => 153873
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:35:31
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 15:04:54
+    [user_id] => 14
+    [additional_info] => nnnn
+    [issue_type] => Street Light Not Working
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => jjj
+    [landmark] => hjj
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php25DD.tmp
+            [error] => 0
+            [size] => 153873
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php26A9.tmp
+            [error] => 0
+            [size] => 167833
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:36:19
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 15:05:44
+    [user_id] => 14
+    [additional_info] => bggh
+    [issue_type] => Garbage on Road
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => ghh
+    [landmark] => bbbh
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpE094.tmp
+            [error] => 0
+            [size] => 249577
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpE1CD.tmp
+            [error] => 0
+            [size] => 156351
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 09:37:39
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 15:06:35
+    [user_id] => 2
+    [additional_info] => hbbb
+    [issue_type] => Waterlogging
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => hhh
+    [landmark] => bbb
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php159B.tmp
+            [error] => 0
+            [size] => 896093
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php18D8.tmp
+            [error] => 0
+            [size] => 92600
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 11:35:05
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 17:04:31
+    [user_id] => 14
+    [additional_info] => nmmm
+    [issue_type] => Faded Road Markings
+    [location] => Kg Centre Point Club House, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => ujsjs
+    [landmark] => bnn
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php338A.tmp
+            [error] => 0
+            [size] => 27826
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php3427.tmp
+            [error] => 0
+            [size] => 69228
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-14 11:49:55
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-14 17:19:22
+    [user_id] => 14
+    [additional_info] => bbnnnnn
+    [issue_type] => Damaged Speed Breaker
+    [location] => 326X+GRF, Chennai Tiruvallur High Rd, Thirumazhisai, Tamil Nadu 600124, India
+    [issue_details] => bbbn
+    [landmark] => bbn
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpC9D1.tmp
+            [error] => 0
+            [size] => 92600
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpCA7E.tmp
+            [error] => 0
+            [size] => 88316
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 04:19:13
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-08-04 09:41:12
+    [user_id] => 2
+    [additional_info] => The pothole is quite deep and fills with water, making it hard to see. It has been causing traffic to slow down considerably, particularly during the morning rush hour.
+    [issue_type] => Potholes
+    [location] => 22G8+5HW, Kuthambakkam, Tamil Nadu 602105, India
+    [issue_details] => A large and deep pothole has formed in the middle of the parking road, posing a significant risk to vehicles, especially two-wheelers
+    [landmark] => Saveetha Medical College, Car Parking
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php832B.tmp
+            [error] => 0
+            [size] => 6027
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 04:46:01
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 19:08:35
+    [user_id] => 14
+    [additional_info] => This specific light has been out for nearly a week. The area becomes very dark and is a safety concern for people walking from the bus stop in the evening. The pole number is SavCh-087.
+    [issue_type] => Street Light Not Working
+    [location] => Chettipedu, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => The primary street light at the main road junction is completely non-functional and does not switch on at night.
+    [landmark] => Vijaysanthi Apartments, Chettipedu
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpD57.tmp
+            [error] => 0
+            [size] => 60273
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 04:51:05
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-05 10:16:34
+    [user_id] => 14
+    [additional_info] => The damage is severe, exposing the internal metal rods. Instead of slowing traffic, it is now causing vehicles to swerve abruptly to avoid tyre damage, which is more dangerous. It is also a tripping hazard for pedestrians.
+    [issue_type] => Damaged Speed Breaker
+    [location] => Thandalam Junction Mannur Road, Arakkonam Hwy, Thandal, Kuthambakkam, Tamil Nadu 602117, India
+    [issue_details] => The concrete speed breaker has been partially destroyed, with broken pieces and sharp edges creating a hazard on the road.
+    [landmark] => Bengaluru Highway
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpB28E.tmp
+            [error] => 0
+            [size] => 7896
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 04:51:07
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-05 10:16:34
+    [user_id] => 14
+    [additional_info] => The damage is severe, exposing the internal metal rods. Instead of slowing traffic, it is now causing vehicles to swerve abruptly to avoid tyre damage, which is more dangerous. It is also a tripping hazard for pedestrians.
+    [issue_type] => Damaged Speed Breaker
+    [location] => Thandalam Junction Mannur Road, Arakkonam Hwy, Thandal, Kuthambakkam, Tamil Nadu 602117, India
+    [issue_details] => The concrete speed breaker has been partially destroyed, with broken pieces and sharp edges creating a hazard on the road.
+    [landmark] => Bengaluru Highway
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpB85B.tmp
+            [error] => 0
+            [size] => 7896
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:04:23
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-09 10:29:40
+    [user_id] => 14
+    [additional_info] => The waterlogging appears to be caused by a blocked or overflowing drainage system. The water is about ankle-deep and has been stagnant for over a day, creating a health hazard and a potential breeding ground for mosquitoes.
+    [issue_type] => Waterlogging
+    [location] => Saveetha University Rd, Kuthambakkam, Tamil Nadu 602105, India
+    [issue_details] => There is significant waterlogging on the main road, with stagnant rainwater covering the entire width of the street, making it difficult for vehicles and pedestrians to pass
+    [landmark] => SIMATS Medical College
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpDC55.tmp
+            [error] => 0
+            [size] => 59092
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpDE98.tmp
+            [error] => 0
+            [size] => 5899
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:19:17
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-03 08:55:21
+    [user_id] => 2
+    [additional_info] => The markings are nearly invisible at night and during rain, causing confusion for drivers and posing a serious safety risk for pedestrians. The stop line before the crosswalk has completely disappeared.
+    [issue_type] => Faded Road Markings
+    [location] => Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => The white paint for the lane dividers on the main road has become extremely faded and is difficult to see.
+    [landmark] => Papanchathiram (POP City)
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php824D.tmp
+            [error] => 0
+            [size] => 13695
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php824E.tmp
+            [error] => 0
+            [size] => 13945
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:25:49
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-16 10:52:25
+    [user_id] => 14
+    [additional_info] => The markings are nearly invisible at night and during rain, causing confusion for drivers and posing a serious safety risk for pedestrians. The stop line before the crosswalk has completely disappeared.
+    [issue_type] => Faded Road Markings
+    [location] => 43, Periamet, Kannappar Thidal, Park Town, Tiruvallur, Chennai, Tamil Nadu 600003, India
+    [issue_details] => Dude, the yellow paint for the parking and handicap signs on the road is super faded, and you can barely see it.
+    [landmark] => Dr. M .G. R. Central Railway Station
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php7F92.tmp
+            [error] => 0
+            [size] => 5140
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:45:57
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-01 11:12:41
+    [user_id] => 14
+    [additional_info] => The garbage pile is emitting a strong foul odor and is attracting stray animals (dogs and cattle), which are scattering the waste across the road. This is creating a major public health issue and a potential hazard for traffic.
+    [issue_type] => Garbage on Road
+    [location] => 1A, Post, Chettipedu Village, Thandalam, Sriperunbudur Taluk, Tamil Nadu 602105, India
+    [issue_details] => A significant amount of uncollected household garbage and plastic waste has been dumped on the side of the road, spilling onto the main thoroughfare.
+    [landmark] => OTTO Clothes Factory
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpC551.tmp
+            [error] => 0
+            [size] => 22299
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpE2AE.tmp
+            [error] => 0
+            [size] => 64055
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:45:59
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-01 11:12:41
+    [user_id] => 14
+    [additional_info] => The garbage pile is emitting a strong foul odor and is attracting stray animals (dogs and cattle), which are scattering the waste across the road. This is creating a major public health issue and a potential hazard for traffic.
+    [issue_type] => Garbage on Road
+    [location] => 1A, Post, Chettipedu Village, Thandalam, Sriperunbudur Taluk, Tamil Nadu 602105, India
+    [issue_details] => A significant amount of uncollected household garbage and plastic waste has been dumped on the side of the road, spilling onto the main thoroughfare.
+    [landmark] => OTTO Clothes Factory
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment2] => Array
+        (
+            [name] => image2.jpg
+            [full_path] => image2.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpF07A.tmp
+            [error] => 0
+            [size] => 22299
+        )
+
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpF1C3.tmp
+            [error] => 0
+            [size] => 64055
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:53:59
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php6F54.tmp
+            [error] => 0
+            [size] => 2506599
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:54:12
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php9CCD.tmp
+            [error] => 0
+            [size] => 2506599
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:54:19
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php7D1D.tmp
+            [error] => 0
+            [size] => 2506599
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:54:23
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php9C1.tmp
+            [error] => 0
+            [size] => 2506599
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:55:01
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php15B5.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:55:09
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php2B70.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:55:20
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php5B3D.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:55:22
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. It's also creating an unwelcome breeding ground for mosquitoes, which isn't ideal. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php4EA9.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:56:00
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\phpF29C.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:56:04
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible.
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php431.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:56:14
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php396B.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-15 05:56:21
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-10 11:19:39
+    [user_id] => 2
+    [additional_info] => The rain has been relentless lately; I can't believe the amount of water that's accumulated. It's all sitting right outside my place, making it look like a small lake. This is definitely something that needs to be taken care of quickly before it causes problems. I'm worried about potential damage to the foundation of the house with all this standing water. So let's get this sorted out ASAP to keep things running smoothly and prevent further issues.
+    [issue_type] => Waterlogging
+    [location] => C Block, Kg Centre Point, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => Water was logged outside of my house; please clear this as soon as possible
+    [landmark] => KG Apartments
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php56B8.tmp
+            [error] => 0
+            [size] => 277932
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-19 11:42:14
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-19 17:11:26
+    [user_id] => 2
+    [additional_info] => 
+    [issue_type] => Cracks on Road
+    [location] => Pappanchsthiram, Pappanchattram, Chembarambakkam, Tamil Nadu 600123, India
+    [issue_details] => kdkdk
+    [landmark] => saveetha School of Engineering
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-19 12:39:09
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-19 18:08:37
+    [user_id] => 2
+    [additional_info] => vuffuuvyccj
+    [issue_type] => Damaged Speed Breaker
+    [location] => ycfuf
+    [issue_details] => speed test
+    [landmark] => gbjjv
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-27 02:21:26
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-27 07:49:28
+    [user_id] => 18
+    [additional_info] => please slove it fast
+    [issue_type] => Waterlogging
+    [location] => 22H8+654, Kuthambakkam, Tamil Nadu 602105, India
+    [issue_details] => water log
+    [landmark] => saveetha
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php65B8.tmp
+            [error] => 0
+            [size] => 2071866
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-27 02:21:44
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-27 07:49:28
+    [user_id] => 18
+    [additional_info] => please slove it fast
+    [issue_type] => Waterlogging
+    [location] => 22H8+654, Kuthambakkam, Tamil Nadu 602105, India
+    [issue_details] => water log
+    [landmark] => saveetha
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => C:\Users\sanna\AppData\Local\Temp\php477F.tmp
+            [error] => 0
+            [size] => 2071866
+        )
+
+)
+
+========================================
+
+========================================
+Timestamp: 2025-09-27 02:21:58
+--- POST Data ---
+Array
+(
+    [date_time] => 2025-09-27 07:49:28
+    [user_id] => 18
+    [additional_info] => please slove it fast
+    [issue_type] => Waterlogging
+    [location] => 22H8+654, Kuthambakkam, Tamil Nadu 602105, India
+    [issue_details] => water log
+    [landmark] => saveetha
+    [status] => Pending
+    [privacy_policy_agreement] => 1
+)
+
+--- FILES Data ---
+Array
+(
+    [attachment1] => Array
+        (
+            [name] => image1.jpg
+            [full_path] => image1.jpg
+            [type] => 
+            [tmp_name] => 
+            [error] => 3
+            [size] => 0
+        )
+
+)
+
+========================================
+
